@@ -239,11 +239,6 @@ Se probaron programas válidos, operador inválido, ausencia de DATA, REDUCE MAX
 - MARS 4.5
 - Visual Studio Code
 
-## Integrantes
+## Integrante
 
-Completar antes de entregar:
-
-```text
-Integrante 1:
-Integrante 2:
-```
+Gaudy Montero
